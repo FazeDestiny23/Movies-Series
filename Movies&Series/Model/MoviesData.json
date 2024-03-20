@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1 ,
+        "name": "La La Land" ,
+        "gender": "Musical - Romance" ,
+        "sinopsis": "Sebastian a jazz pianist and Mia, an aspiring actress, fall madly in love." ,
+        "rating": 9 ,
+        "streaming": "StarPlus / Amazon Prime / AppleTV" ,
+        "imageName": "Lalaland"
+    },
+    
+    {
+        "id": 2 ,
+        "name": "Star Wars V - The Empires Strikes Back" ,
+        "gender": "Science Fiction" ,
+        "sinopsis": "Imperial troops have driven the rebel forces out of their hidden bases and pursue them across the galaxy." ,
+        "rating": 10 ,
+        "streaming": "Disney Plus" ,
+        "imageName": "StarWarsV"
+    },
+    
+    {
+        "id": 3 ,
+        "name": "Lilo & Stitch" ,
+        "gender": "Animation" ,
+        "sinopsis": "A lonely girl adopts a dog who is actually a mischievous alien hiding from intergalactic hunters." ,
+        "rating": 8 ,
+        "streaming": "Disney Plus" ,
+        "imageName": "L&S"
+    },
+    
+    {
+        "id": 4 ,
+        "name": "La noche del Demonio" ,
+        "gender": "Terror - Mistery" ,
+        "sinopsis": "Demons from the past resurface to torment him while, at the same time, Josh begins to have visions of his father." ,
+        "rating": 7 ,
+        "streaming": "HBOMax / Amazon Prime / AppleTV" ,
+        "imageName": "LND"
+    },
+    
+    {
+        "id": 5 ,
+        "name": "Lord Of The Rings 2" ,
+        "gender": "Adventure - Fantasy" ,
+        "sinopsis": "Gollum guides Frodo and Sam to Mordor while Aragorn and his companions defend Rohan from Saruman's bestial army." ,
+        "rating": 9 ,
+        "streaming": "HBOMax / Amazon Prime / AppleTV" ,
+        "imageName": "LOTR"
+    },
+]

@@ -1,0 +1,61 @@
+[
+    {
+        "id": 1 ,
+        "name": "Bluey" ,
+        "gender": "Animation" ,
+        "sinopsis": "Bluey, her energy and lovable spirit create all kinds of fun and unpredictable situations." ,
+        "rating": 9 ,
+        "streaming": "Disney Plus" ,
+        "seasons": 3 ,
+        "episodes": 116 ,
+        "imagesName": "Bluey"
+    },
+    
+    {
+        "id": 2 ,
+        "name": "The Office" ,
+        "gender": "Comedy" ,
+        "sinopsis": "A paper company that is somewhat more dynamic than the original British version." ,
+        "rating": 10 ,
+        "streaming": "Netflix / HBOMax / Amazon Prime" ,
+        "seasons": 9 ,
+        "episodes": 201 ,
+        "imagesName": "Office"
+    },
+    
+    {
+        "id": 3 ,
+        "name": "The Walking Dead" ,
+        "gender": "Adventure" ,
+        "sinopsis": "Interpersonal conflicts may pose a greater threat to your survival than walkers roaming the streets." ,
+        "rating": 8 ,
+        "streaming": "Netflix / StarPlus / ClaroVideo" ,
+        "seasons": 11 ,
+        "episodes": 177 ,
+        "imagesName": "TWD"
+    },
+    
+    {
+        "id": 4 ,
+        "name": "Brooklyn 99" ,
+        "gender": "Drama" ,
+        "sinopsis": "Detectives Jake Peralta, Amy Santiago, Rosa Diaz, Charles Boyle and Sergeant Terry." ,
+        "rating": 7 ,
+        "streaming": "Netflix" ,
+        "seasons": 8 ,
+        "episodes": 153 ,
+        "imagesName": "99"
+    },
+    
+    {
+        "id": 5 ,
+        "name": "Pretty Little Liars" ,
+        "gender": "Mystery" ,
+        "sinopsis": "Who is A and how does he know so much?" ,
+        "rating": 9 ,
+        "streaming": "Amazon Prime / HBOMax" ,
+        "seasons": 7 ,
+        "episodes": 160 ,
+        "imagesName": "PLL"
+    },
+]
